@@ -1,0 +1,11 @@
+ro.product.model=M9300
+ro.product.brand=sprint
+ro.product.name=M9300
+ro.product.device=M9300
+ro.product.board=8x50
+# ro.build.product is obsolete; use ro.product.device
+ro.build.product=M9300
+ro.sf.lcd_density=240
+
+
+
